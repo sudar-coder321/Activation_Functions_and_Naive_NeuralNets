@@ -15,12 +15,12 @@ This is a naive implementation of all important(significant :innocent:) activati
   - has probablistic range of 0 to 1 (normalization)
   -  For X above 2 or below -2, tends to bring the Y value (the prediction) to the edge of the curve, very close to 1 or 0. This enables clear predictions.
  
- The cons are:- 
+   The cons are:- 
  
- #### 
-  - The derivative values in the regions where y values react very little to the changes in x are very small and converge to 0.This is called the vanishing gradient and the learning is minimal. 
-  - Outputs not zero centered.
-  - Computationally more expensive
+  #### 
+    - The derivative values in the regions where y values react very little to the changes in x are very small and converge to 0.This is called the vanishing gradient and the learning is minimal. 
+    - Outputs not zero centered.
+    - Computationally more expensive
  
 - **TanH :-** :- 
 
