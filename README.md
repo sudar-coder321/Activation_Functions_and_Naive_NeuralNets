@@ -7,6 +7,7 @@ This is a naive implementation of all important(significant :innocent:) activati
 - **Linear Function :-** Linear activation functions are better in giving a wide range of activations and a line of a positive slope may increase the firing rate as the input rate increases.
 
 - **Sigmoid :-** When using a sigmoid activation function , a small change in the input only causes a small change in the output. 
+  
   The pros are:-  
   #### 
   - function is differentiable.
