@@ -4,28 +4,28 @@ This is a naive implementation of all important(significant :innocent:) activati
 ## Analysis on various Activation Functions 
 
 ### 
-- Linear Function :- Linear activation functions are better in giving a wide range of activations and a line of a positive slope may increase the firing rate as the input rate increases.
+- ** Linear Function :-** Linear activation functions are better in giving a wide range of activations and a line of a positive slope may increase the firing rate as the input rate increases.
 
-- Sigmoid :- 
+- **Sigmoid :-** 
  
-- TanH :- 
+- **TanH :-** 
 
-- Recitified Linear Unit(ReLU):- 
+- **Recitified Linear Unit(ReLU):-** 
 
-- Leaky ReLU :- 
+- **Leaky ReLU :-** 
 
-- Parametric :- 
+- **Parametric :-** 
 
-- Softplus :- 
+- **Softplus :-** 
 
-- Exponential Linear Unit :- 
+- **Exponential Linear Unit :-** 
 
-- Binary Step :- 
+- **Binary Step :-** 
 
-- ArcTan :- 
+- **ArcTan :-** 
 
-- Gaussian :-  
+- **Gaussian :-** 
 
-- Swish :- 
+- **Swish :-** 
 
-- Bipolar :- 
+- **Bipolar :-** 
