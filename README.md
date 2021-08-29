@@ -30,17 +30,19 @@ This is a naive implementation of all important(significant :innocent:) activati
 
 ![image](https://user-images.githubusercontent.com/60535124/131256417-2ba7275c-67a9-4245-9a38-5f4c5279c45f.png)
 
+
+### Linear Unit Functions - 
+
 - **Recitified Linear Unit(ReLU) -** 
   
-
 - **Leaky ReLU -** 
 
-- **Parametric -** 
+**Exponential Linear Unit -** 
+
+- **Parametric -** A value k ∈ {0, 1, 2, 3} is chosen uniformly at random, and k edges of the activation function graph are randomly selected. Multiplicative per-channel parameters are inserted at these edges and initialized to 1. Whereas evolution is well suited for discovering the general form of the activation function in a discrete, structured search space, parameterization makes it possible to fine-tune the function using gradient descent. 
 
 - **Softplus -** 
-
-- **Exponential Linear Unit -** 
-
+ 
 - **Binary Step -** 
 
 - **ArcTan -** 
