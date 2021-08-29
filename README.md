@@ -4,7 +4,7 @@ This is a naive implementation of all important(significant :innocent:) activati
 ## Analysis on various Activation Functions 
 
 ### 
-- ** Linear Function :-** Linear activation functions are better in giving a wide range of activations and a line of a positive slope may increase the firing rate as the input rate increases.
+- **Linear Function :-** Linear activation functions are better in giving a wide range of activations and a line of a positive slope may increase the firing rate as the input rate increases.
 
 - **Sigmoid :-** 
  
