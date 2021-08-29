@@ -9,7 +9,8 @@ This is a naive implementation of all important(significant :innocent:) activati
 - **Sigmoid :-** When using a sigmoid activation function , a small change in the input only causes a small change in the output. 
   
   The pros are:-  
-  #### - function is differentiable.
+  #### 
+   - function is differentiable.
   - monotonic
   - has a smooth gradient
   - has probablistic range of 0 to 1 (normalization)
@@ -17,7 +18,8 @@ This is a naive implementation of all important(significant :innocent:) activati
  
    The cons are:- 
  
-  #### - The derivative values in the regions where y values react very little to the changes in x are very small and converge to 0.This is called the vanishing gradient and the learning is minimal. 
+  #### 
+    - The derivative values in the regions where y values react very little to the changes in x are very small and converge to 0.This is called the vanishing gradient and the learning is minimal. 
     - Outputs not zero centered.
     - Computationally more expensive
  
