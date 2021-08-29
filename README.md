@@ -23,24 +23,29 @@ This is a naive implementation of all important(significant :innocent:) activati
     - Outputs not zero centered.
     - Computationally more expensive
  
-- **TanH :-** :- 
+- **Hyperbolic Tangent(TanH) -**   It is used to predict or to differentiate between two classes but it maps the negative input into negative quantity only and ranges in between -1 to  1.The advantage is that the negative inputs will be mapped strongly negative and the zero inputs will be mapped near zero in the tanh graph.
 
-- **Recitified Linear Unit(ReLU):-** 
+#### Behavioural Comparison between Linear, Sigmoid and Tanh
 
-- **Leaky ReLU :-** 
+![image](https://user-images.githubusercontent.com/60535124/131256417-2ba7275c-67a9-4245-9a38-5f4c5279c45f.png)
 
-- **Parametric :-** 
+- **Recitified Linear Unit(ReLU) -** 
+  
 
-- **Softplus :-** 
+- **Leaky ReLU -** 
 
-- **Exponential Linear Unit :-** 
+- **Parametric -** 
 
-- **Binary Step :-** 
+- **Softplus -** 
 
-- **ArcTan :-** 
+- **Exponential Linear Unit -** 
 
-- **Gaussian :-** 
+- **Binary Step -** 
 
-- **Swish :-** 
+- **ArcTan -** 
 
-- **Bipolar :-** 
+- **Gaussian -** 
+
+- **Swish -** 
+
+- **Bipolar -** 
